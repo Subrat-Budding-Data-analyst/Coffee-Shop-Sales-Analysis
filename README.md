@@ -1,4 +1,4 @@
-# COffee-Shop-Sales-Analysis
+# Coffee-Shop-Sales-Analysis
 To analyze retail sales data to identify trends, patterns, and opportunities for improving the performance of the coffee shop.
 # ✳️𝐂𝐨𝐟𝐟𝐞𝐞 𝐒𝐡𝐨𝐩 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬✳️
 
